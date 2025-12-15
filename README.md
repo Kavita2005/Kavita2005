@@ -76,7 +76,6 @@
 
 <div align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Kavita2005&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak graph" />
   
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Kavita2005&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180" alt="GitHub stats" />
