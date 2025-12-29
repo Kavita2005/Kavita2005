@@ -75,7 +75,6 @@
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
   
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Kavita2005&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180" alt="GitHub stats" />
