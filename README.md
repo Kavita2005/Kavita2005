@@ -2,6 +2,12 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<h1 align="center">Hi, I'm Kavita Chimman 👋</h1>
+
+<p align="center">
+  <b>Software Developer</b>
+</p>
+
 ###
 
 <div align="center">
@@ -16,27 +22,24 @@
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kavita2005.Kavita2005&"  />
-</div>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+## About me
+
+- Enjoy building **practical, user-focused solutions** and delivering **real-world projects** through hands-on development.
+- Passionate about writing **clean, maintainable code**, building **reliable systems**, and sharing knowledge with the community.
+- Open to collaborating on **meaningful projects**, **team-based development**, and **hackathons**.
+- Current focus includes **MERN Stack** and **Full-Stack Web Development**, with an interest in **scalable web applications**.
+- Actively exploring **advanced computer science concepts** while strengthening **problem-solving and analytical skills**.
+
+---
 
 ###
 
-<p align="left">I'm Kavita Chimman from India.  <br><br>- 🔭 I’m a final-year B.Tech student, passionate about web development  <br>- 📚 Currently enhancing my skills in advanced web development, AWS<br>- ⚡ In my free time, I participate in tech competitions, explore new programming languages, and build small projects to apply my knowledge</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools</h3>
 
 ###
 
@@ -70,9 +73,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+---
+
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left">My Stats</h3>
 
 <div align="center">
   
