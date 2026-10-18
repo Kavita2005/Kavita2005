@@ -131,5 +131,4 @@ To build reliable, secure, and impactful software while continuously improving m
 <div align="center">
   <h3>💙 Thanks for visiting my profile!</h3>
   <p>Feel free to explore my repositories and connect with me.</p>
-  <img src="https://komarev.com/ghpvc/?username=Kavita2005&style=flat-square&color=blue" alt="Profile views" />
 </div>
