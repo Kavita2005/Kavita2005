@@ -3,22 +3,6 @@
 <img src="./.github/workflows/banner.png" width="100%" alt="Kavita Chimman - Java Full Stack Developer" />
 </div>
 
-<h1 align="center">Hi, I'm Kavita Chimman 👋</h1>
-
-<h3 align="center">Java Full Stack Developer | MERN Stack Developer | Software Engineer</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kavita-chimman-469737323">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kavitachimman4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Kavita2005">
-    <img src="https://img.shields.io/badge/GitHub-Kavita2005-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
-
 ---
 
 ## 👩‍💻 About Me
