@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="banner.png" width="100%" alt="Kavita Chimman - Java Full Stack Developer" />
+  <img src="./banner.png" width="100%" alt="Kavita Chimman - Java Full Stack Developer" />
 </div>
 
 <h1 align="center">Hi, I'm Kavita Chimman 👋</h1>
