@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="./.github/workflows/banner.png" width="100%" alt="Kavita Chimman - Java Full Stack Developer" />
+<img src="./.github/workflows/banner1.png" width="100%" alt="Kavita Chimman - Java Full Stack Developer" />
 </div>
 
 ---
