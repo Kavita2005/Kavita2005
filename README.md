@@ -1,96 +1,85 @@
+# Hi, I'm Kavita Chimman 👋
+
+### Java Full Stack Developer | MERN Stack Developer | Software Engineer
+
+I’m a Computer Engineering graduate passionate about building scalable web applications, developing REST APIs, and solving real-world problems through software.
+
+- 💻 Trained in **Java Full Stack Development** with Spring Boot, Hibernate, React.js, and MySQL.
+- 🚀 Building full-stack applications using **Java, Spring Boot, React.js, Node.js, and Express.js**.
+- 🔐 Interested in secure APIs, real-time applications, and AI-powered solutions.
+- 🏆 **1st Prize** — Avishkar Inter-College Project Competition.
+- 🤝 Open to collaborating on software development projects and hackathons.
+- 📫 Email: **kavitachimman4@gmail.com**
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/kavita-chimman-469737323)
+- 🌐 GitHub: [Kavita2005](https://github.com/Kavita2005)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Java, JavaScript, TypeScript, Python, SQL
+
+**Frontend:** HTML5, CSS3, React.js, Tailwind CSS
+
+**Backend:** Spring Boot, Spring MVC, Spring Security, Hibernate, JDBC, Node.js, Express.js, REST APIs, WebSockets
+
+**Databases:** MySQL, PostgreSQL, MongoDB
+
+**Tools & Technologies:** Git, GitHub, Maven, Postman, Docker, CI/CD
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Parkify — Parking Slot Availability & Booking System
+**Tech Stack:** Java, Spring Boot, React.js, MySQL, WebSockets, JWT
+
+- Developed a full-stack parking management and booking application.
+- Implemented real-time parking availability using WebSockets (STOMP/SockJS).
+- Added time-based bookings and conflict validation to prevent double-booking.
+- Implemented JWT authentication and role-based access control.
+
+### 2. Digital Mental Health Platform
+**Tech Stack:** React.js, Node.js, Express.js, PostgreSQL, Prisma
+
+- Built a platform for mood tracking, journaling, and emotional wellness monitoring.
+- Implemented role-based access for administrators, therapists, and users.
+- Integrated webcam-based emotion detection using face-api.js.
+
+### 3. CyberShield AI — Phishing & Scam Detection
+**Tech Stack:** React.js, Node.js, Express.js, MySQL, Claude AI
+
+- Developed an AI-powered platform to analyze suspicious links and messages.
+- Integrated an AI API to classify potential phishing and scam attempts.
+- Implemented JWT authentication and risk-score visualization.
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
-<h1 align="center">Hi, I'm Kavita Chimman 👋</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=Kavita2005&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
 
-<p align="center">
-  <b>Software Developer</b>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavita2005&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
 
-###
+<img src="https://streak-stats.demolab.com?user=Kavita2005&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kavita-chimman-469737323" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="kavitachimman4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
 </div>
 
 ---
 
+## 🏆 Achievements
 
-###
-
-## About me
-
-- Enjoy building **practical, user-focused solutions** and delivering **real-world projects** through hands-on development.
-- Passionate about writing **clean, maintainable code**, building **reliable systems**, and sharing knowledge with the community.
-- Open to collaborating on **meaningful projects**, **team-based development**, and **hackathons**.
-- Current focus includes **MERN Stack** and **Full-Stack Web Development**, with an interest in **scalable web applications**.
-- Actively exploring **advanced computer science concepts** while strengthening **problem-solving and analytical skills**.
+- 🥇 First Prize — Avishkar Inter-College Project Competition, 2025.
+- 🎓 Java Full Stack Developer Training — The Kiran Academy, 2026.
+- 🌐 Web Development Certification — Udemy, 2026.
+- 👩‍💻 Coordinator — AGTECHATHON 0.1, 2025.
 
 ---
 
-###
+### 💡 My Goal
 
-## Language and tools
+To build reliable, secure, and impactful software while continuously improving my problem-solving skills and contributing to meaningful development projects.
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-</div>
-
----
-
-###
-
-<h3 align="left">My Stats</h3>
-
-<div align="center">
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavita2005&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180" alt="GitHub stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavita2005&layout=compact&theme=dark&hide_border=false" height="150" alt="Top languages" />
-</div>
-
-
-###
-
-<img src="https://github.com/Kavita2005/Kavita2005/raw/output/snake.svg" alt="Snake animation" />
-
-
-###
-
-
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
